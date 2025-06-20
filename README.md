@@ -25,7 +25,6 @@ Live site: [https://currency-converter-react-orcin.vercel.app/]
 - [React](https://reactjs.org/)
 - [Vite](https://vitejs.dev/)
 - [Tailwind CSS](https://tailwindcss.com/)
-- [ExchangeRate API](https://exchangerate.host) *(or whichever API you used)*
 
 ---
 
