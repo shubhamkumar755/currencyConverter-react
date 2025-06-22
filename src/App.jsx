@@ -29,7 +29,7 @@ function App() {
     <div className='w-full h-screen flex flex-wrap justify-center items-center bg-cover bg-no-repeat'
       style={{  backgroundColor:"#596F62" }} >
       <div className="w-full">
-        <h2 styke={{color:"#E8E9F3"}}>Convertly<h2/>
+        <h2 style={{color:"#E8E9F3"}}>Convertly</h2>
         <div className="w-full max-w-md mx-auto border border-gray-60 rounded-lg p-5 backdrop-blur-sm bg-white/30">
           <form
             onSubmit={(e) => { e.preventDefault(); convert() }}>
